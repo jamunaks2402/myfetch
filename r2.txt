@@ -1,0 +1,2 @@
+Hello mam, this is file in remote repository that is to be stored in local rep.
+Thank you.
